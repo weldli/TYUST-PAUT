@@ -27,4 +27,5 @@ Under these conditions, we used phased array inspection equipment to collect ult
 
 Subsequently, a professional non-destructive testing (NDT) expert team specializing in radiographic inspection was organized. Using the Labelme tool, they conducted precise annotations of the defects in the collected images, including both their locations and categories. After strict image screening, preprocessing, and annotation, the **TYUST-PAUT dataset** was finalized.
 
-![相控阵数据集缺陷图](./README.assets/相控阵数据集缺陷图.png)
+
+![img](./1.png)
